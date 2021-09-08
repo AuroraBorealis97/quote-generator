@@ -6,6 +6,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: 'Mali', cursive;
 }
 
 h1{
@@ -14,13 +15,13 @@ h1{
 }
 
 div{
-    border: 1px solid black;
     width: 90%;
     max-width: 1000px;
     height: 300px;
     margin: 0 auto;
+    box-shadow: 1px 1px 15px rgb(0, 0, 0, 0.1);
 }
-q{
+p{
     display: inline-block;
     font-size: 1.5rem;
     margin: 50px 20px 0 20px;
